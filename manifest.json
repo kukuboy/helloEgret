@@ -6,7 +6,10 @@
 		"libs/modules/tween/tween.js",
 		"libs/modules/assetsmanager/assetsmanager.js",
 		"libs/modules/egretia-sdk/egretia-sdk.js",
-		"libs/modules/promise/promise.js"
+		"libs/modules/promise/promise.js",
+		"libs/matchvs/matchvs.js",
+		"libs/WXCloudApi/WXCloudApi.js",
+		"libs/egretmgobe/egretmgobe.js"
 	],
 	"game": [
 		"bin-debug/LoadingUI.js",
